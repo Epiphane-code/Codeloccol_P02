@@ -55,7 +55,7 @@ Aprés avoir telecharger CLI (gh), l'outil qui nous permet de gerer github depui
 
 
 
-** Exercice N°2:
+* Exercice N°2:
 
 * git checkout -b myself : pour créer et basculer sur une nouvelle branche appelée myself
 
