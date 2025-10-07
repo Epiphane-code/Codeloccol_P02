@@ -158,3 +158,23 @@ Aprés avoir telecharger CLI (gh), l'outil qui nous permet de gerer github depui
 ![](./assets/3_4.png)
 
 
+
+
+* Experience acquise dans le projet: 
+
+
+- La notion de gh (GitHub CLI) et son installation.
+
+
+- Connexion de GitHub avec le terminal via gh auth login.
+
+
+- Utilisation de la ligne de commande pour gérer les dépôts Git et GitHub.
+
+
+- Création et gestion de branches pour le développement parallèle.
+
+- Gestion des conflits de fusion (merge conflicts) et leur résolution.
+
+
+- Collaboration via les pull requests.
