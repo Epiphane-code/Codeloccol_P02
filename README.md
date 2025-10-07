@@ -2,6 +2,7 @@
 
 
 ** <span style="color:blue"> Exercice N°1: </span>
+![status](https://img.shields.io/badge/status-active-brightgreen)
 
 Aprés avoir telecharger CLI (gh), l'outil qui nous permet de gerer github depuis le terminal, je suis passé sur le terminal comme suit:
 *** gh auth login : pour connecter le compte github avec terminal
